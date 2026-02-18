@@ -36,3 +36,26 @@ resume-clone/
 ![Resume Preview](/assets/preview-img02.png)
 
 > Preview of the semantic HTML & CSS resume layout.
+
+
+## How to Run
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/yourusername/resume-clone.git
+```
+
+
+2. Open the project:
+
+- Navigate to the project folder
+
+- Open `index.html` in your preferred browser
+
+
+## Project Files
+
+- [HTML File](index.html)
+- [CSS File](style.css)
+
