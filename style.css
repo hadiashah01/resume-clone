@@ -25,5 +25,9 @@ font-family: Verdana, Geneva, Tahoma, sans-serif;
 li{
     margin-inline: 0;
 }
-
-
+h1,p{
+    margin-block: 0;
+}
+.flex-heading{
+    margin-bottom: 0;
+}
