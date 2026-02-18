@@ -15,6 +15,13 @@ font-family: Verdana, Geneva, Tahoma, sans-serif;
 
 }
 
+.flexbox{
+    display: flex;
+    flex-direction: row;
+    
+    
+}
+
 
 
 
