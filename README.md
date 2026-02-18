@@ -14,13 +14,13 @@ This project helps strengthen understanding of structured markup and visual layo
 - Build a professional resume design
 
 
-# Technologies Used
+## Technologies Used
 
 - HTML5
 
 - CSS3
 
-# Intended Project Structure
+## Intended Project Structure
 ```bash 
 
 resume-clone/
@@ -30,3 +30,9 @@ resume-clone/
 │── assets/
 ```
 
+## Preview of the Resume
+
+![Resume Preview](/assets/preview-img01.png)
+![Resume Preview](/assets/preview-img02.png)
+
+> Preview of the semantic HTML & CSS resume layout.
