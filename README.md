@@ -30,10 +30,18 @@ resume-clone/
 │── assets/
 ```
 
+##  Design Reference
+
+The resume layout was recreated from an image reference for practice purposes.  
+All content used in this project is original and written by me.
+
+![Design Reference](./challenge-design1.png)
+![Design Reference](./challenge-design2.png)
+
 ## Preview of the Resume
 
-![Resume Preview](/assets/preview-img01.png)
-![Resume Preview](/assets/preview-img02.png)
+![Resume Preview](./assets/preview-img01.png)
+![Resume Preview](./assets/preview-img02.png)
 
 > Preview of the semantic HTML & CSS resume layout.
 
@@ -43,7 +51,7 @@ resume-clone/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/resume-clone.git
+git clone https://github.com/hadiashah01/resume-clone.git
 ```
 
 
