@@ -35,8 +35,8 @@ resume-clone/
 The resume layout was recreated from an image reference for practice purposes.  
 All content used in this project is original and written by me.
 
-![Design Reference](./challenge-design1.png)
-![Design Reference](./challenge-design2.png)
+![Design Reference](assets/challenge-design1.png)
+![Design Reference](assets/challenge-design2.png)
 
 ## Preview of the Resume
 
